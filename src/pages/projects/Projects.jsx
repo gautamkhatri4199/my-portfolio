@@ -10,8 +10,8 @@ export function Project() {
     },
     {
       img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
-      title: 'Project 2',
-      description: 'This is second description',
+      title: 'Landing Site for NGO',
+      description: 'A website was created for the NGO located in Nepal which showcased their works and infromation.',
     },
     {
       img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
