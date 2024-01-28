@@ -5,8 +5,8 @@ export function Project() {
   const projects = [
     {
       img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
-      title: 'Project 1',
-      description: 'This is first description',
+      title: 'Management System',
+      description: 'Created using PHP and MySQL, this was a school management system that helped the students to view the attendance, lectures and scores.',
     },
     {
       img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
