@@ -1,0 +1,29 @@
+.contact-container {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+.contact__details {
+  text-align: left;
+  width: 50%;
+}
+
+.contact__form {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+}
+
+label {
+  margin-top: 8px;
+}
+
+.form-submit {
+  margin-top: 16px;
+}

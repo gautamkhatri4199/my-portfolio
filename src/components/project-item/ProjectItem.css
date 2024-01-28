@@ -1,0 +1,26 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  padding: 16px;
+}
+
+.item__img {
+  height: 240px;
+  width: 400px;
+}
+
+.item__content {
+  padding: 0px 16px;
+  text-align: left;
+}
+
+.item__title {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.item__description {
+  font-size: 16px;
+  font-weight: 400;
+}

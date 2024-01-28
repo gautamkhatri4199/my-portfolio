@@ -1,0 +1,9 @@
+.services {
+  padding: 16px;
+}
+
+.service-list {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
