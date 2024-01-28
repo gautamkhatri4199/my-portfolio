@@ -1,3 +1,7 @@
+/*
+These are the major project samples that are completed by me during schooling
+*/
+
 import ProjectItem from '../../components/project-item';
 import './Projects.css';
 
