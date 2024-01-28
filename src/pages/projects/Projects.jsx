@@ -8,19 +8,19 @@ import './Projects.css';
 export function Project() {
   const projects = [
     {
-      img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
+      img: 'https://unsplash.com/photos/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA',
       title: 'Management System',
       description: 'Created using PHP and MySQL, this was a school management system that helped the students to view the attendance, lectures and scores.',
     },
     {
-      img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
+      img: 'https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw',
       title: 'Landing Site for NGO',
       description: 'A website was created for the NGO located in Nepal which showcased their works and infromation.',
     },
     {
-      img: 'https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg',
+      img: 'https://unsplash.com/photos/turned-on-macbook-pro-beside-gray-mug-Px3iBXV-4TU',
       title: 'Project 3',
-      description: 'This is third description',
+      description: 'This is third Project submission my me',
     },
   ];
   return (

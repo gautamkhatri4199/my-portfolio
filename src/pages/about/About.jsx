@@ -15,7 +15,7 @@ export function About() {
         <h2>Gautam Khatri</h2>
         <p>
           Hi, I am Gautam Khatri. I am an international student pursuing
-          Master's Degree in Canada. I come from the country where Mount Everest
+          Post Graduate Degree in Canada. I come from the country where Mount Everest
           lies, i.e. Nepal. I have done my undergrad in Computer Science from
           one of the university in Nepal.
           <br />

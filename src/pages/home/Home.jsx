@@ -12,7 +12,7 @@ export function Home() {
     <div className='home'>
       <h1>Hi, Welcome to my portfolio.</h1>
       <h3>
-        Providing web development services since 2017. <br />
+        Providing web development services since 2020. <br />
         Need a developer for creating your site? You are at perfect place.
       </h3>
       <button onClick={handleClick}>About Me</button>
