@@ -6,7 +6,9 @@ export function Header() {
     <header>
       <div className='logo'>
         <Link to='/'>
-          <h1>GK</h1>
+          <h1>
+          <a href="C:\Users\gkhat\OneDrive\Desktop\Semester 1\web app class\resources"></a>
+            GK</h1>
         </Link>
       </div>
       <nav>
