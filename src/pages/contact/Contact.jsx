@@ -13,8 +13,8 @@ export function Contact() {
     <div className='contact-container'>
       <div className='contact__details'>
         <h2>Contact Me</h2>
-        <h3>Phone: +1234928928452</h3>
-        <h3>Email: someone@gmail.com</h3>
+        <h3>Phone: +14374777265</h3>
+        <h3>Email: gautamkhatri4199@gmail.com</h3>
       </div>
       <form className='contact__form'>
         <label htmlFor='first-name'>First Name</label>

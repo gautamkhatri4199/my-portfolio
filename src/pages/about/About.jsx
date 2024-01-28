@@ -10,7 +10,7 @@ export function About() {
 
   return (
     <div className='about'>
-      <img className='self-img' src={gk} alt='gautak-khatri'></img>
+      <img className='self-img' src={gk} alt='gautam-khatri'></img>
       <div className='content'>
         <h2>Gautam Khatri</h2>
         <p>
