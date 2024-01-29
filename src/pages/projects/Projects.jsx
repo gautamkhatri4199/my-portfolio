@@ -18,7 +18,7 @@ export function Project() {
       description: 'A website was created for the NGO located in Nepal which showcased their works and infromation.',
     },
     {
-      img: 'https://unsplash.com/photos/turned-on-macbook-pro-beside-gray-mug-Px3iBXV-4TU',
+      img: 'https://unsplash.com/photos/silver-macbook-qJTgxn3F4Qs',
       title: 'Project 3',
       description: 'This is third Project submission my me',
     },
