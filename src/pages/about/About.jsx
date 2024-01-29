@@ -4,7 +4,7 @@ import gk from '../../assets/gk.png';
 export function About() {
   function handleClick() {
     window.open(
-      'https://docs.google.com/document/d/1ld5mjzaB-WsEHXycIPlecXh5xfFS_bS5/edit?usp=drive_link&ouid=101537557248471123127&rtpof=true&sd=true'
+      'https://drive.google.com/file/d/1rTRd9hiPjwNP-fAwGe5BAGgxpXj7cLKh/view?usp=sharing'
     );
   }
 

@@ -1,14 +1,12 @@
 import './Header.css';
 import { Link } from 'react-router-dom';
-
+import logo from '../header/../../assets/logo.jpg'
 export function Header() {
   return (
     <header>
       <div className='logo'>
         <Link to='/'>
-          <h1> <img src="src/assets/gk.png" alt="" />
-          <a href="C:\Users\gkhat\OneDrive\Desktop\Semester 1\web app class\resources"></a>
-            </h1>
+           <img src= {logo} alt="GK" />
         </Link>
       </div>
       <nav>
